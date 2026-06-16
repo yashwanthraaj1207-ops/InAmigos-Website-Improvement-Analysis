@@ -1,4 +1,4 @@
-# 📊 InAmigos Website Improvement Analysis
+# 📊 InAmigos Website Improvement Analysis - Task 2
 
 A professional website analysis and improvement report prepared during my AI Web Developer Internship at InAmigos Foundation.
 
